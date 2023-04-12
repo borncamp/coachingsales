@@ -1,0 +1,8 @@
+{
+    "subscription_id": "your_subscription_id_here",
+    "server_name": "coaching",
+    "admin_login": "coaching"
+    "database_name": "coaching"
+    "resource_group_name": "coaching"
+    "location": "eastus"
+}
